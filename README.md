@@ -1,1 +1,2 @@
-# grplot_data
+# grplot: lazy statistical data visualization
+This repository contains dataset for grplot
